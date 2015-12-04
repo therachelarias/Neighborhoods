@@ -8,5 +8,5 @@ a tool for managing neighborhood groups:<br>
   * post messages to your group<br>
   * view a calendar of events<br>
 
-http://www.realityboston.com
+http://www.realityboston.com<br>
 http://www.bloc.io
